@@ -1,3 +1,3 @@
 # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" height="35px" />&nbsp;<b>Hi, I'm Laerte</b>
 <br>
-<b>Oi, Sou o Laerte</b>
+<b>Oi, Me chamo Laerte</b>
