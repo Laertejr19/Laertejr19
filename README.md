@@ -2,4 +2,3 @@
 <br>
 
 [![Laertejr19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Laertejr19)](https://github.com/Laertejr19/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Laertejr19&layout=compact&theme=)
