@@ -3,10 +3,10 @@
 
 **Eu sou o Laerte | I’m Laerte**  
 Estudante de **TI**, apaixonado por desenvolvimento de sistemas e aprendizado contínuo.  
-Desenvolvo projetos em **Java, SQL, HTML, CSS e JavaScript**, sempre buscando criar soluções funcionais e inovadoras.  
+Desenvolvo projetos em **Java, SQL, HTML, CSS, PHP, GDScript e JavaScript**, sempre buscando criar soluções funcionais e inovadoras.  
 
 I’m a **Computer Science student**, passionate about software development and continuous learning.  
-I build projects in **Java, SQL, HTML, CSS, and JavaScript**, always aiming to create practical and innovative solutions.
+I build projects in **Java, SQL, HTML, CSS, PHP, GDScript, and JavaScript**, always aiming to create practical and innovative solutions.
 
 ---
 
